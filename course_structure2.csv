@@ -1,0 +1,90 @@
+Semester,Course Catagory,Course Number,Course title,Contact Periods(L-T-P),Credits
+3,BS,AMS2612,Higher Mathematics,3-1-0,4
+3,PC,COC2032,Object Oriented Programming,3-1-0,4
+3,PC,COC2062,Data Structure and Algorithm,3-1-0,4
+3,PC,COC2072,Digital Logic and System Design,3-1-0,4
+3,PC,COC2122,Database Management System,3-1-0,4
+3,PC,COC2932,C & C++ Programming Lab,0-1-2,2
+3,ESA,ELA2112,Electronic Devices & Circuits,3-1-0,4
+4,BS,AMS2622,"Numerical Analysis,Transforms and Probability",3-0-0,3
+4,BS,AMS2632,Discrete Structures,3-1-0,4
+4,PC,COC2082,Computer Architecture,3-1-0,4
+4,PC,COC2142,Design & Analysis of Algorithm,3-1-0,4
+4,PC,COC2922,Digital Design & Simulation Lab,0-1-2,2
+4,PC,COC2942,Data Structure Lab,0-1-2,2
+4,ESA,ELA2412,Fundamentals of Digital Signal Processing,3-1-0,4
+4,ESA,ELA2902,Electronics Laboratory,0-1-2,2
+5,PC,COC3092,Microprocessor Theory & Applications,3-0-0,3
+5,PC,COC3102,Operating Systems,3-1-0,4
+5,PC,COC3162,Software Engineering,3-0-0,3
+5,PC,COC3932,Algorithms & Operating Systems Lab,0-1-2,2
+5,PSI,COP3802,Colloquium,0-2-0,2
+5,ESA,ELA3402,Communication Systems,3-1-0,4
+5,HM,MEH3452,Engineering Economy & Management,3-0-0,3
+5,OE,OE1,Open Elective-1,,3
+6,PC,COC3082,Digital Electronics,3-0-0,3
+6,PC,COC3112,Theory of Computation,3-1-0,4
+6,PC,COC3132,Computer Networks,3-1-0,4
+6,PC,COC3152,Computer Graphics,3-0-0,3
+6,PC,COC3962,Advanced Computing Lab,0-1-2,2
+6,PC,COC3972,Microprocessor & Embedded Systems Lab,0-1-2,2
+6,PSI,COP3952,Minor Project,0-0-3,3
+6,HM,HM,Elective Course under Humanities category,,3
+7,PC,COC4012,Information Security,3-0-0,3
+7,PC,COC4062,Compiler Design,3-0-0,3
+7,PC,COC4962,Computer Network & Security Lab,0-1-2,2
+7,PSI,COP4982,Project Phase-I,0-0-3,4
+7,DE,DE1,Departmental Elective-1,,3
+7,DE,DE2,Departmental Elective-2,,3
+7,DE,DE3,Departmental Elective-3,,3
+8,PSI,COP4802,Industrial Training/Internship,,2
+8,PSI,COP4992,Project Phase II,0-0-3,6
+8,DE,DE4,Departmental Elective-4,,3
+8,DE,DE5,Departmental Elective-5,,3
+8,OE,OE2,Open Elective-2,,3
+
+6,DC,COC3110,Theory of Computation,3-1-0,4
+6,DC,COC3120,Database Management System,3-1-0,4
+6,DC,COC3130,Computer Networks,3-1-0,4
+6,DC,COC3150,Computer Graphics,3-1-0,4
+6,DC,COC3800,Colloquium,0-2-0,2
+6,DC,COC3960,Advanced Computing Lab,0-1-2,2
+6,DC,COC3940,Microprocessor Lab,0-1-2,2
+6,HM,HM,Elective Course under Humanities category,,3
+
+7,DC,COC4010,Information Security,3-1-0,4
+7,DC,COC4060,Compiler Design,3-1-0,4
+7,DC,COC4980,B.Tech Project Part-I,0-0-8,4
+7,DC,COC4950,Network & Embedded System Lab,0-1-2,2
+7,DE,DE1,Departmental Elective-1,,4
+7,DE,DE2,Departmental Elective-2,,4
+7,DE,DE3,Departmental Elective-3,,4
+
+8,DC,COC4990,B.Tech Project Part-II,0-0-12,6
+8,DE,DE4,Departmental Elective-4,,4
+8,DE,DE5,Departmental Elective-5,,4
+8,DE,DE6,Departmental Elective-6,,4
+8,OE,OE2,Open Elective-2,,4
+
+
+M.Tech
+
+10,PC,COC6050,Advanced Algorithms,3-1-0,4		
+10,PC,COC6919,Project,0-3-0,4		
+10,PC,COC6930,System Design Lab,0-1-2,2		
+10,PE,COC6030,Software Design and Testing,3-1-0,4		
+10,PE,COC6220,Digital System System,3-1-0,4		
+10,PE,COC6280,Cybersecurity,3-1-0,4		
+10,PE,COE6330,Logic for Computer Science,3-1-0,4
+10,PE,COE6340,Deep Learning,3-1-0,4	
+
+
+1st Year
+
+2,ESA,A1C-G2: COA1912,Computer Programming Lab,0-1-2,2
+2,ESA,A1A-G1: COA1912,Computer Programming Lab,0-1-2,2
+2,ESA,A1B-G2: COA1912,Computer Programming Lab,0-1-2,2
+2,ESA,A1C-G1: COA1912,Computer Programming Lab,0-1-2,2
+2,ESA,A1B-G1: COA1912,Computer Programming Lab,0-1-2,2
+2,ESA,A1A-G2: COA1912,Computer Programming Lab,0-1-2,2
+
